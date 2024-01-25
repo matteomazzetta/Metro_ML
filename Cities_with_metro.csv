@@ -2,7 +2,7 @@ City,"Country region",Name,"Service opened","Last expanded",Stations,Lines,Syste
 Algiers,Algeria,Algiers Metro,2011[11],2018[12],19[12],1,18.5 km (11.5 mi)[13],45.3 (2019)[R 1]
 Buenos Aires,Argentina,Buenos Aires Underground,1913[Nb 1],2019[16],78[Nb 2][17],7,56.7 km (35.2 mi)[17],74 (2020)[R 2]
 Yerevan,Armenia,Yerevan Metro,1981[18],1996[19],10[18],1,12.1 km (7.5 mi)[18],23.3 (2022)[R 3]
-Sydney,Australia,Sydney Metro,2019[20],–,13[20],1,36 km (22 mi)[20][21],19.7 (2022)[R 4][R 5][R Nb 1]
+Sydney,Australia,Sydney Metro,2019[20],2019,13[20],1,36 km (22 mi)[20][21],19.7 (2022)[R 4][R 5][R Nb 1]
 Vienna,Austria,Vienna U-Bahn,1978[22][Nb 3],2017[23],98[24],5,83.3 km (51.8 mi)[22],459.8 (2019)[R 6]
 Baku,Azerbaijan,Baku Metro,1967[25],2022[26],27[25],3,40.7 km (25.3 mi)[25],202.5 (2022)[R 3]
 Dhaka,Bangladesh,Dhaka Metro Rail,2022[27],2023,16,1,20.1 km (12.5 mi),0 (2023)
@@ -18,7 +18,7 @@ Salvador,Brazil,Salvador Metro,2014[48],2023[49],20[50],2,34 km (21 mi),62 (2020
 São Paulo,Brazil,São Paulo Metro[Nb 8],1974[51],2021[52],89[52],6,104.4 km (64.9 mi)[52],"1,104.2 (2022)[R 15]"
 Sofia,Bulgaria,Sofia Metro,1998[53],2021[54],47[54],4,52 km (32 mi)[54],92.4 (2019)[R 16]
 Montreal,Canada,Montreal Metro,1966[55],2007[55],68[56],4,69.2 km (43.0 mi)[56],245.5 (2022)[R 17][R Nb 2]
-Montreal,Canada,Réseau express métropolitain,2023[57],–,5,1,16.6 km (10.3 mi)[58],0 (2023)
+Montreal,Canada,Réseau express métropolitain,2023[57],2023,5,1,16.6 km (10.3 mi)[58],0 (2023)
 Toronto,Canada,Toronto subway[59],1954[60],2017[60],70[61],3,70.5 km (43.8 mi)[62],235.7 (2022)[R 17][R Nb 2][R Nb 3]
 Vancouver,Canada,SkyTrain,1985[63],2016[64],53[64],3,79.6 km (49.5 mi)[64],116.6 (2022)[R 17][R Nb 2]
 Santiago,Chile,Santiago Metro,1975[65],2023[66],126[67],7,149 km (93 mi)[68],544.4 (2022)[R 18]
@@ -29,7 +29,7 @@ Changzhou,China,Changzhou Metro,2019[74],2021[75],43,2,54 km (33.55 mi),22.8 (20
 Chengdu,China,Chengdu Metro,2010,2023[76],291[Nb 15],13,561.7 km (349.0 mi)[77],"1,800 (2021)[R 20]"
 Chongqing,China,Chongqing Rail Transit,2004,2023,256[Nb 16],11,523.7 km (325.4 mi)[78],839.8 (2020)[R 19]
 Dalian,China,Dalian Metro[79],2003,2023[80],100,6,237.7 km (147.7 mi),125.2 (2020)[R 19]
-Dongguan,China,Dongguan Rail Transit,2016[81],–,15,1,37.7 km (23.4 mi),35.1 (2020)[R 19]
+Dongguan,China,Dongguan Rail Transit,2016[81],2016,15,1,37.7 km (23.4 mi),35.1 (2020)[R 19]
 Foshan,China,Foshan Metro[Nb 17],2010,2022[82],61,3,112.7 km (70.0 mi),0 (2023)[R Nb 4]
 Fuzhou,China,Fuzhou Metro,2016[83],2023[84],90,5,143.5 km (89.2 mi),94.8 (2020)[R 19]
 Guangzhou,China,Guangzhou Metro[Nb 18],1997,2023[85],265[Nb 19],16,648.8 km (403.1 mi)[85],"2,415.6 (2020)[R 19]"
@@ -44,7 +44,7 @@ Jinhua,China,Jinhua Rail Transit,2022[103],2023,32,2,118.5 km (73.6 mi),0 (2023)
 Kunming,China,Kunming Metro,2012,2022[104],103,6,164.3 km (102.1 mi),159.3 (2020)[R 19]
 Lanzhou,China,Lanzhou Metro,2019[105],2023,27[105],2,35 km (22 mi)[105],52.5 (2020)[R 19]
 Luoyang,China,Luoyang Subway,2021[101][106],2021,33[101][106],2,43.6 km (27.1 mi)[101],0 (2023)
-Macau,China,Macau Light Rapid Transit,2019,2023,12,1,12.5 km (7.8 mi), 0 (2023)
+Macau,China,Macau Light Rapid Transit,2019,2023,12,1,12.5 km (7.8 mi),0 (2023)
 Nanchang,China,Nanchang Metro,2015,2021[107],94,4,128.3 km (79.7 mi),135.9 (2020)[R 19]
 Nanjing,China,Nanjing Metro[108],2005,2023[109],206[110],13,505.9 km (314.4 mi)[111],801.3 (2020)[R 19]
 Nanning,China,Nanning Metro[112],2016,2021[113],93,5,128.2 km (79.7 mi),208.4 (2020)[R 19]
@@ -57,8 +57,8 @@ Shenyang,China,Shenyang Metro,2010,2023[122],111,5,163.7 km (101.7 mi),316.3 (20
 Shenzhen,China,Shenzhen Metro,2004,2023[123],307[Nb 24],16,555.4 km (345.1 mi),"2,178 (2021)"
 Shijiazhuang,China,Shijiazhuang Metro,2017,2021[124],60[124],3,76.5 km (47.5 mi)[124],71.7 (2020)[R 19]
 Suzhou,China,Suzhou Rail Transit,2012,2023[125],181,6,249.5 km (155.0 mi)[125],308.6 (2020)[R 19]
-Taiyuan,China,Taiyuan Metro,2020,–,23,1,23.7 km (14.7 mi)[126],0.88 (6 days in 2020)
-Taizhou,China,Taizhou Rail Transit,2022[127],–,15,1,52.4 km (32.6 mi)[128],0 (2023)
+Taiyuan,China,Taiyuan Metro,2020,2020,23,1,23.7 km (14.7 mi)[126],0.88 (6 days in 2020)
+Taizhou,China,Taizhou Rail Transit,2022[127],2022,15,1,52.4 km (32.6 mi)[128],0 (2023)
 Tianjin,China,Tianjin Metro,1984,2023[129],192,10,301 km (187 mi),338.8 (2020)[R 19]
 Ürümqi,China,Ürümqi Metro,2018,2019[130],21,1,27.6 km (17.1 mi),19.1 (2020)[R 19]
 Wenzhou,China,Wenzhou Rail Transit,2019[131],2023,36,2,116.5 km (72.4 mi)[132],7 (2020)[R 19]
@@ -72,7 +72,7 @@ Medellín,Colombia,Medellín Metro,1995[143],2012[Nb 26],27[143],2,31.3 km (19.4
 Prague,Czech Republic,Prague Metro,1974[144],2015[Nb 27],58[145],3,65.4 km (40.6 mi)[146],251.4 (2020)[R 25]
 Copenhagen,Denmark,Copenhagen Metro,2002[147],2020[147],39[148],4,38.2 km (23.7 mi)[148],107 (2022)[R 26]
 Santo Domingo,Dominican Republic,Santo Domingo Metro,2009,2018[149],33[149][150][151],2,31 km (19 mi)[150][151],49.6 (2020)[R 27]
-Quito,Ecuador,Quito Metro,2023,–,15,1,22.6 km (14.0 mi),0 (2023)
+Quito,Ecuador,Quito Metro,2023,2023,15,1,22.6 km (14.0 mi),0 (2023)
 Cairo,Egypt,Cairo Metro[152],1987,2024[153],80[152],3,99.7 km (62.0 mi)[152],"1,314 (2015)[R 28][R Nb 6]"
 Helsinki,Finland,Helsinki Metro,1982[154],2022[Nb 28][155],30[156],2,43 km (27 mi)[157],69.9 (2022)[R 29]
 Lille,France,Lille Metro,1983[158],2000[158],60[159],2,45 km (28 mi)[159],109.44 (2022)[R 30]
@@ -93,28 +93,28 @@ Bangalore,India,Namma Metro,2011[194],2023[195],65[196],2,73.81 km (45.86 mi)[19
 Chennai,India,Chennai Metro,2015[199],2021[200],42[201],2,54.1 km (33.6 mi)[202],42 (2019*)[R 39]
 New Delhi,India,Delhi Metro,2002[203],2023[204],231[Nb 34],10,351.3 km (218.3 mi)[Nb 35][205],"2,032 (2023*)[R 39]"
 Gurgaon,India,Rapid Metro Gurgaon,2013[207],2017[208],11[208],1,12.1 km (7.5 mi)[208],18.3 (2018*)[R 41][R Nb 9]
-Noida,India,Noida Metro,2019[209],–,21,1,29.7 km (18.5 mi),5 (2019*)[R 39]
+Noida,India,Noida Metro,2019[209],2019,21,1,29.7 km (18.5 mi),5 (2019*)[R 39]
 Hyderabad,India,Hyderabad Metro,2017[210],2020[211],58[211],3,67 km (42 mi)[211],173 (2019*)[R 39]
 Jaipur,India,Jaipur Metro,2015[212][213],2020[213],11[213],1,12 km (7.5 mi)[213],7 (2019*)[R 39]
-Kanpur,India,Kanpur Metro,2021[214],–,9,1,8.73 km (5.42 mi),0 (2023)
+Kanpur,India,Kanpur Metro,2021[214],2021,9,1,8.73 km (5.42 mi),0 (2023)
 Kochi,India,Kochi Metro,2017[215],2022[216],24,1,26.8 km (16.7 mi)[217],17 (2019*)[R 39]
 Kolkata,India,Kolkata Metro,1984[218],2022[219],40[220],3,47.85 km (29.73 mi)[220],256 (2019*)[R 39]
 Lucknow,India,Lucknow Metro,2017[221],2019[222],21[221],1,22.9 km (14.2 mi)[221],22 (2019*)[R 39]
 Mumbai,India,Mumbai Metro,2014[223],2023[224],40[225],3,46.5 km (28.9 mi)[226],126 (2018)[R 42]
-Navi Mumbai,India,Navi Mumbai Metro,2023,–,11,1,11.10 km (6.90 mi),0 (2023)
+Navi Mumbai,India,Navi Mumbai Metro,2023,2023,11,1,11.10 km (6.90 mi),0 (2023)
 Nagpur,India,Nagpur Metro,2019[227],2022[228],36[228],2,38.2 km (23.7 mi)[228],4 (2019*)[R 39]
 Pune,India,Pune Metro,2022,2023,20,2,23.8 km (14.8 mi),0 (2023)
-Jakarta,Indonesia,Jakarta Mass Rapid Transit,2019[229],–,13,1,15.7 km (9.8 mi),19.7 (2022)[R 43]
-Jakarta,Indonesia,Jabodebek LRT,2023,—,18,2,44.5 km (27.7 mi),0 (2023)
-Jakarta,Indonesia,Jakarta Light Rapid Transit,2019,—,6,1,5.8 km (3.6 mi),0 (2023)
-Palembang,Indonesia,Palembang LRT,2018,-,13,1,23.4 km (14.5 mi),0 (2023)
+Jakarta,Indonesia,Jakarta Mass Rapid Transit,2019[229],2019,13,1,15.7 km (9.8 mi),19.7 (2022)[R 43]
+Jakarta,Indonesia,Jabodebek LRT,2023,2023,18,2,44.5 km (27.7 mi),0 (2023)
+Jakarta,Indonesia,Jakarta Light Rapid Transit,2019,2019,6,1,5.8 km (3.6 mi),0 (2023)
+Palembang,Indonesia,Palembang LRT,2018,2018,13,1,23.4 km (14.5 mi),0 (2023)
 Isfahan,Iran,Isfahan Urban Railway,2015[230],2018[231][232],20[231],1,20.2 km (12.6 mi)[231],0 (2023)
 Mashhad,Iran,Mashhad Urban Railway,2011[233],2019[234],35[235],2,37.5 km (23.3 mi)[236],50.7 (2018)[R 44]
 Shiraz,Iran,Shiraz Metro,2014[237],2023[Nb 36],24,2,32.5 km (20.2 mi),18 (2018)[R 45]
 Karaj,Iran,Karaj Metro,2023[238][Nb 37],2023[Nb 38],3[Nb 39],1,6.5 km (4.0 mi)[239][Nb 39],0 (2023)
 Tabriz,Iran,Tabriz Metro,2015[240],2020,18,1,17.2 km (10.7 mi),0 (2023)
 Tehran,Iran,Tehran Metro,1999[241][Nb 40],2023[242],162[Nb 41][243][244],6,274.1 km (170.3 mi)[Nb 41][243],820 (2018*)[R 46]
-Brescia,Italy,Brescia Metro,2013[245],–,17[246],1,13.7 km (8.5 mi)[246],18.7 (2019)[R 47]
+Brescia,Italy,Brescia Metro,2013[245],2013,17[246],1,13.7 km (8.5 mi)[246],18.7 (2019)[R 47]
 Catania,Italy,Catania Metro,1999[247],2021[Nb 42][248],10[249],1,8.8 km (5.5 mi),6.5 (2019)[R 48]
 Genoa,Italy,Genoa Metro,1990[250],2012[250],8[250],1,7.1 km (4.4 mi)[250],15.3 (2018)[R 49][R Nb 10]
 Milan,Italy,Milan Metro,1964[251],2023[251],113[Nb 43],5,104.1 km (64.7 mi)[253],387.2 (2019)[R 50]
@@ -139,25 +139,25 @@ Pyongyang,North Korea,Pyongyang Metro,1973,1987[Nb 48],17,2,22.5 km (14.0 mi),36
 Busan,South Korea,Busan Metro,1985,2017[Nb 49],114,4,115.2 km (71.6 mi)[282],246.3 (2020)[R 59]
 Daegu,South Korea,Daegu Metro,1997,2015[Nb 50],88[283],3,82.9 km (51.5 mi)[283],168 (2019)[R 60][R Nb 13]
 Daejeon,South Korea,Daejeon Metro,2006,2007[Nb 51],22,1,22.6 km (14.0 mi)[284],40 (2019)[R 60]
-Gimhae,South Korea,Busan-Gimhae LRT,2011,2011,21,1,23.9 km (14.9 mi),-
-Gimpo,South Korea,Gimpo Goldline,2019,2019,10,1,23.67 km (14.71 mi)[285],-
+Gimhae,South Korea,Busan-Gimhae LRT,2011,2011,21,1,23.9 km (14.9 mi),0
+Gimpo,South Korea,Gimpo Goldline,2019,2019,10,1,23.67 km (14.71 mi)[285],0
 Gwangju,South Korea,Gwangju Metro,2004,2008[Nb 52],20,1,20.1 km (12.5 mi)[286],19 (2019)[R 60]
 Incheon,South Korea,Incheon Subway,1999,2020[287],56[288],2,59.7 km (37.1 mi)[288],199 (2022)[289]
 Seoul,South Korea,Seoul Metropolitan Subway[Nb 53][Nb 54],1974[290],2022[291],337[292],11,357.46 km (222.12 mi)[292],"2,403 (2022)[R 61][R Nb 14][R Nb 15]"
-Seoul,South Korea,Korail metro lines[Nb 55][Nb 54],1974[Nb 56],-[Nb 57],276,7,606.5 km (376.9 mi)[293],-
+Seoul,South Korea,Korail metro lines[Nb 55][Nb 54],1974[Nb 56],1974[Nb 57],276,7,606.5 km (376.9 mi)[293],0
 Seoul,South Korea,Shinbundang Line[Nb 54](Neo Trans),2011,2022[294],16,1,33.4 km (20.8 mi)[295],122.5 (2019)[R 62][R Nb 16]
-Seoul,South Korea,AREX,2007,2018,14,1,63.8 km (39.6 mi)[296],-
-Uijeongbu,South Korea,U Line,2012,2012,16,1,11.3 km (7.0 mi)[297],-
-Yongin,South Korea,EverLine,2013,2013,15,1,18.143 km (11.274 mi),-
+Seoul,South Korea,AREX,2007,2018,14,1,63.8 km (39.6 mi)[296],0
+Uijeongbu,South Korea,U Line,2012,2012,16,1,11.3 km (7.0 mi)[297],0
+Yongin,South Korea,EverLine,2013,2013,15,1,18.143 km (11.274 mi),0
 Kuala Lumpur,Malaysia,Rapid KL[Nb 58],1996,2023[298],138[Nb 59],6,204.8 km (127.3 mi),159.3 (2022)[R 63]
 Guadalajara,Mexico,Guadalajara Electric Rail System[Nb 60],1994[Nb 61],2020,28,1,30 km (19 mi),114.5 (2021)[R 64]
 Mexico City,Mexico,Mexico City Metro,1969[299],2012[Nb 62],163[Nb 63],12,200.9 km (124.8 mi)[300][Nb 64],1057.5 (2022)[R 65]
 Monterrey,Mexico,Metrorrey,1991[301],2021[302],38[303],3,40.2 km (25.0 mi)[303],109.9 (2020)[R 66]
 Amsterdam,Netherlands,Amsterdam Metro,1977,2018[304],39[305],5,41.2 km (25.6 mi),111.3 (2019)[R 67][R Nb 17]
 Rotterdam,Netherlands,Rotterdam Metro[Nb 65],1968,2023,71,5,102.3 km (63.6 mi)[306],99 (2019)[R 68]
-Lagos,Nigeria,Lagos Rail Mass Transit,2023,–,5[307],1,13 km (8.1 mi),0 (2023)
+Lagos,Nigeria,Lagos Rail Mass Transit,2023,2023,5[307],1,13 km (8.1 mi),0 (2023)
 Oslo,Norway,Oslo Metro[Nb 66],1966[Nb 67],2016[Nb 68],101,5,85 km (53 mi)[308],74 (2020)[R 69]
-Lahore,Pakistan,Lahore Metro,2020[309],–,26,1,27.1 km (16.8 mi)[309],20 (2020-2021)[R 70]
+Lahore,Pakistan,Lahore Metro,2020[309],2020,26,1,27.1 km (16.8 mi)[309],20 (2020-2021)[R 70]
 Panama City,Panama,Panama Metro,2014,2023[310],32,2,37.8 km (23.5 mi),49.9 (2020)[R 71]
 Lima,Peru,Lima Metro,2011,2023,31,2,39.4 km (24.5 mi)[311],110.4 (2018)[R 72]
 Manila,Philippines,Manila Light Rail Transit System,1984[312],2021[312],33[313],2,37.2 km (23.1 mi)[312][314],218.2 (2019)[R 73][R Nb 18]
@@ -178,11 +178,11 @@ Barcelona,Spain,Barcelona Metro[Nb 72],1924,2021[336],132[Nb 73][337],12,128.3 k
 Bilbao,Spain,Metro Bilbao[Nb 74],1995[338],2020[339][340],42[341][340],3,45.1 km (28.0 mi)[341],80.3 (2022)[R 80]
 Madrid,Spain,Madrid Metro[Nb 75],1919[342],2019[343],242[344],13,293.9 km (182.6 mi)[344],571.7 (2022)[R 81]
 Stockholm,Sweden,Stockholm Metro,1950[345][Nb 76],1994[345],100[346],7,108 km (67 mi)[346],462 (2019)[R 82][R Nb 20]
-Lausanne,Switzerland,Lausanne Métro[Nb 77],2008[347],–,14,1,5.9 km (3.7 mi),32.8 (2019)[R 83][R Nb 21]
+Lausanne,Switzerland,Lausanne Métro[Nb 77],2008[347],2008,14,1,5.9 km (3.7 mi),32.8 (2019)[R 83][R Nb 21]
 Kaohsiung,Taiwan,Kaohsiung Rapid Transit,2008,2012,37[348],2,42.7 km (26.5 mi)[348],65.4 (2019)[R 84]
-New Taipei City,Taiwan,New Taipei Mass Rapid Transit,2020,-,14,1,15.4 km (9.6 mi),0 (2023)
+New Taipei City,Taiwan,New Taipei Mass Rapid Transit,2020,2020,14,1,15.4 km (9.6 mi),0 (2023)
 Taipei,Taiwan,Taipei Mass Rapid Transit,1996[349],2020[350],119[Nb 78],5,152.9 km (95.0 mi)[351],695.7 (2020)[R 85]
-Taichung,Taiwan,Taichung Mass Rail Transit[353],2021[354],–,18[354],1,16.7 km (10.4 mi)[354],0 (2023)
+Taichung,Taiwan,Taichung Mass Rail Transit[353],2021[354],2021,18[354],1,16.7 km (10.4 mi)[354],0 (2023)
 Taoyuan,Taiwan,Taoyuan Mass Rapid Transit,2017,2023,22[355],1,53.1 km (33.0 mi),28 (2019)[R 86]
 Bangkok,Thailand,BTS Skytrain,1999[356],2021[357],64[358],3,70.05 km (43.53 mi)[358],266.5 (2023)[R 87]
 Bangkok,Thailand,Metropolitan Rapid Transit,2004[359],2023[360],107[361],4,135.9 km (84.4 mi)[361],167.3 (2023)[R 87]
@@ -191,11 +191,11 @@ Ankara,Turkey,Ankara Metro,1997,2023[363][Nb 79],57[364],3,67.4 km (41.9 mi)[363
 Bursa,Turkey,Bursaray,2002,2014[Nb 80],39[365],2,39 km (24 mi)[365],91.3 (2010)[R 90]
 Istanbul,Turkey,Istanbul Metro,1989[366],2023,128[Nb 81],11,199.26 km (123.81 mi)[367],542 (2022)[R 91]
 İzmir,Turkey,İzmir Metro,2000[369],2014[369],17[369],1,19.8 km (12.3 mi)[369],100 (2019)[R 92]
-Dnipro,Ukraine,Dnipro Metro,1995,–,6[370],1,7.8 km (4.8 mi)[370],7.5 (2018)[R 93]
+Dnipro,Ukraine,Dnipro Metro,1995,1995,6[370],1,7.8 km (4.8 mi)[370],7.5 (2018)[R 93]
 Kharkiv,Ukraine,Kharkiv Metro,1975,2016,30[370],3,38.7 km (24.0 mi)[370],231.1 (2018)[R 94]
 Kyiv,Ukraine,Kyiv Metro,1960,2013,52[370],3,67.7 km (42.1 mi)[370],496.1 (2018)[R 95]
 Dubai,United Arab Emirates,Dubai Metro,2009[371],2021[372],53,2,89.3 km (55.5 mi)[373],113.6 (2020)[R 96]
-Glasgow,United Kingdom,Glasgow Subway,1896[374],–,15[374],1,10.4 km (6.5 mi)[374],11.9 (2022*)[R 97]
+Glasgow,United Kingdom,Glasgow Subway,1896[374],2022,15[374],1,10.4 km (6.5 mi)[374],11.9 (2022*)[R 97]
 Newcastle,United Kingdom,Tyne and Wear Metro[Nb 66],1980[Nb 82],2008,60,2,77.5 km (48.2 mi),29.3 (2022*)[R 97]
 London,United Kingdom,London Underground[375],1863[1][Nb 83],2021[1],272[376],11,402 km (250 mi)[376],"1,026 (2022*)[R 98][R Nb 22]"
 London,United Kingdom,Docklands Light Railway,1987[377],2011[377],45[377],7,34 km (21 mi),92.3 (2022*)[R 97]
@@ -204,7 +204,7 @@ Baltimore,United States,Baltimore Metro SubwayLink,1983[380],1995[381],14[381],2
 Boston,United States,MBTA subway[Nb 84],1901[380][Nb 85],2014[382],51[383],3,63.9 km (39.7 mi)[383],81 (2022)[R 17][R Nb 2]
 Chicago,United States,"Chicago ""L""[Nb 66]",1892[384][Nb 86],2017[385],145[386],8,165.4 km (102.8 mi)[386][Nb 87],103.5 (2022)[R 17][R Nb 2]
 Cleveland,United States,Red Line (RTA Rapid Transit),1955[387],1968[387],18[388],1,31 km (19 mi)[388],2.8 (2022)[R 17][R Nb 2]
-Honolulu,United States,Skyline,2023,–,9,1,17.4 km (10.8 mi),0 (2023)
+Honolulu,United States,Skyline,2023,2023,9,1,17.4 km (10.8 mi),0 (2023)
 Los Angeles,United States,Metro Rail[Nb 88],1993[389],2000[389][Nb 89],16[389][Nb 88],2,28 km (17 mi)[389],25.8 (2022)[R 17][R Nb 2][R Nb 23]
 Miami,United States,Metrorail,1984[390],2012,23[391],2,39.3 km (24.4 mi)[391],12 (2022)[R 17][R Nb 2]
 New York City,United States,New York City Subway,1904[392][Nb 90],2017[393],424[Nb 91],28,399 km (248 mi)[394],"1,793.1 (2022)[R 17][R Nb 2]"
@@ -217,5 +217,5 @@ San Juan,United States,Tren Urbano,2004[380],2005,16,1,17.2 km (10.7 mi),2.5 (20
 "Washington, D.C.",United States,Washington Metro,1976[406],2023[407],98[406],6,208 km (129 mi),93 (2022)[R 17][R Nb 2]
 Tashkent,Uzbekistan,Tashkent Metro,1977,2023[Nb 99][408],48[409],4,66.5 km (41.3 mi)[409],136.7 (2022)[R 3]
 Caracas,Venezuela,Caracas Metro[Nb 100],1983[410],2015[411],49[Nb 101],5,67.2 km (41.8 mi)[Nb 101],358 (2017)[R 99]
-Valencia,Venezuela,Valencia Metro,2006,–,13,1,7.7 km (4.8 mi),22.6
-Hanoi,Vietnam,Hanoi Metro,2021[413],–,12,1,13.1 km (8.1 mi),10.7 (2023)[R 100][R 101]
+Valencia,Venezuela,Valencia Metro,2006,2006,13,1,7.7 km (4.8 mi),22.6
+Hanoi,Vietnam,Hanoi Metro,2021[413],2021,12,1,13.1 km (8.1 mi),10.7 (2023)[R 100][R 101]
